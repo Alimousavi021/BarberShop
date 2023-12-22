@@ -7,6 +7,6 @@ BarberShop-React
  React
  +Swiper.js
 
- live demo : https://barber-shop-rosy.vercel.app/
+ live demo : https://barber-shop-rosy.vercel.app/  (vpn)
 
  Hope you enjoy!
